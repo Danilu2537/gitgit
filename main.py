@@ -2,7 +2,8 @@ import flask
 
 
 def main():
-    print("Hello, world!")
+    print("Hello, world!\n"
+          "Удачи!")
 
 
 if __name__ == "__main__":
